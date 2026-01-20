@@ -1,0 +1,9 @@
+playwright==1.49.1
+playwright-stealth==1.0.6
+openai==1.82.0
+httpx==0.28.1
+fake-useragent==2.0.3
+python-dotenv==1.0.1
+rich==13.9.4
+click==8.1.7
+Pillow==11.1.0
