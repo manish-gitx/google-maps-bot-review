@@ -1,0 +1,9 @@
+# One proxy per line
+# Formats supported:
+#   http://user:pass@host:port
+#   socks5://user:pass@host:port
+#   host:port:user:pass
+
+http://user1:pass1@residential-proxy1.example.com:8080
+http://user2:pass2@residential-proxy2.example.com:8080
+socks5://user3:pass3@residential-proxy3.example.com:1080
