@@ -1,0 +1,18 @@
+[
+  {
+    "email": "account1@gmail.com",
+    "password": "password123",
+    "recovery_phone": "+1234567890",
+    "status": "active",
+    "reviews_posted": 0,
+    "last_used": null
+  },
+  {
+    "email": "account2@gmail.com",
+    "password": "password456",
+    "recovery_phone": "+0987654321",
+    "status": "active",
+    "reviews_posted": 0,
+    "last_used": null
+  }
+]

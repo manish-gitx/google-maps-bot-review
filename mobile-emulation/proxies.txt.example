@@ -1,0 +1,6 @@
+# One proxy per line
+# Format: http://user:pass@host:port
+# These are routed at OS-level through the emulator
+
+http://user1:pass1@residential-proxy1.example.com:8080
+http://user2:pass2@residential-proxy2.example.com:8080
